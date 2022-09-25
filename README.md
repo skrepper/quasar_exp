@@ -1,6 +1,6 @@
-# Quasar App (app-vite)
+# Study Quasar App (app-vite)
 
-A Quasar Project
+My learning Quasar Project
 
 ## Install the dependencies
 
