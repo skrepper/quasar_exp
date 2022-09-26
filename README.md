@@ -1,6 +1,6 @@
 # Study Quasar App (app-vite)
 
-My learning Quasar Project
+My learning Quasar Project. The created restApi is described here https://github.com/skrepper/yiirest
 
 ## Install the dependencies
 
